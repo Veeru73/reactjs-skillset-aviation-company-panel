@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ES2022",
+    "baseUrl": "src"
+  },
+  "include": ["src/**/*", "src/pages/student-list/StudentTable.js"],
+  "exclude": ["node_modules"]
+}
